@@ -1,1 +1,9 @@
 http://121.8.235.3/app_test/framework.aspx
+
+211.149.188.116:33890		
+远程桌面：zhoul   zhoul%*)
+数据库：sa   sjxtwest@))@
+XP6L0-FC5CP-LXQ9J
+
+bootstrap
+<link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
